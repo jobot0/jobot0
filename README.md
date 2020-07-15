@@ -4,7 +4,7 @@ I'm a **software engineer** working at [KeyOpsTech](https://keyops.tech/en/).
 
 💼 Working in my day job with **Android**, **Kotlin**, **TypeScript** and **Firebase**.
 
-🤓 Playing with **Rust**, **deno** and **Typescript**. I try to help Kotlin students on [exercism](exercism.io).
+🤓 Playing with **Rust**, **deno** and **Typescript**. I try to help Kotlin students on [exercism](https://exercism.io).
 
 📝 Blogging on [https://code.jobo.to](https://code.jobo.to).
 
