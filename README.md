@@ -2,7 +2,7 @@
 
 I'm a **software engineer** working at [KeyOpsTech](https://keyops.tech/en/). 
 
-💼 Working in my day job with **Android**, **Kotlin**, **TypeScript** and **Firebase**.
+💼 Working in my day job with **Android**, **Kotlin**, **TypeScript**, **Firebase** and **React**.
 
 🤓 Playing with **Rust**, **deno** and **Typescript**. I try to help Kotlin students on [exercism](https://exercism.io).
 
