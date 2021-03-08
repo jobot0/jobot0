@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a **software engineer** working at [KeyOpsTech](https://keyops.tech/en/). 
+I'm a **software engineer** working at [In-Tact](https://www.in-tact.fr/). 
 
-💼 Working in my day job with **Android**, **Kotlin**, **TypeScript**, **Firebase** and **React**.
+💼 Working in my day job with **Android**, **Kotlin**.
 
 🤓 Playing with **Rust**, **deno** and **Typescript**. I try to help Kotlin students on [exercism](https://exercism.io).
 
