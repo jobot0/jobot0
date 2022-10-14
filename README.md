@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a **software engineer** working at [In-Tact](https://www.in-tact.fr/). 
+I'm a **software engineer** working at [Netatmo](https://www.netatmo.com/fr-fr). 
 
 💼 Working in my day job with **Android**, **Kotlin**.
 
-🤓 Playing with **Rust**, **deno** and **Typescript**. I try to help Kotlin students on [exercism](https://exercism.io).
+🤓 Playing with **Rust**, **deno** and **Typescript**.
 
 📝 Blogging on [https://code.jobo.to](https://code.jobo.to).
 
