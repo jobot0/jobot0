@@ -8,7 +8,7 @@ I'm a **software engineer** working at [Netatmo](https://www.netatmo.com/fr-fr).
 
 📝 Blogging on [https://code.jobo.to](https://code.jobo.to).
 
-💬 We can talk on [dice.camp @jobot0](https://dice.camp/jobot0) or via e-mail me[at]jobo.to. 
+💬 We can talk on [dice.camp @jobot0](https://dice.camp/@jobot0) or via e-mail me[at]jobo.to. 
 
 
 
